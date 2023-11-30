@@ -7,7 +7,7 @@
   "homepage": "./",
   "repository": {
 		"type": "git",
-		"url": "https://github.com/Jmacr0/update-repo-demo"
+		"url": "https://github.com/eusoumagalhaes/updater-test"
 	},
   "scripts": {
     "format": "prettier --write .",
